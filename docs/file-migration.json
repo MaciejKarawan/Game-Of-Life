@@ -1,0 +1,44 @@
+[
+  {
+    "old": "Cell.py",
+    "sha256": "934f59f196054492872ccdbfe8f4264ebd434926cdb5d273c681d7504a246851",
+    "identical_content_at": [
+      "src/game_of_life/cell.py"
+    ],
+    "action": "preserved-or-consolidated"
+  },
+  {
+    "old": "GOA.py",
+    "sha256": "13a1790208029477cc6b99ad17c7f771eeb61ff26bdf0a97eba265bf1bce6e14",
+    "identical_content_at": [],
+    "action": "adapted-source/documentation"
+  },
+  {
+    "old": "GOA_STATS.py",
+    "sha256": "97c0b6269eb4752c953344b7c515a179aa585547edd7ea182b71c99de02a89c1",
+    "identical_content_at": [
+      "src/game_of_life/stats.py"
+    ],
+    "action": "preserved-or-consolidated"
+  },
+  {
+    "old": "GameMaster.py",
+    "sha256": "8c1826046e40288aae8336e72ae3c234a42e2a8f200d0f715110408656583066",
+    "identical_content_at": [],
+    "action": "adapted-source/documentation"
+  },
+  {
+    "old": "README.md",
+    "sha256": "35614eec1d4f1886d166df8628d6578a44d23806d401e0bb7630b3f16a90344c",
+    "identical_content_at": [
+      "docs/import-readme.md"
+    ],
+    "action": "preserved-or-consolidated"
+  },
+  {
+    "old": "Space.py",
+    "sha256": "6ef6cadef96f4051282c23b424394a556e19fcc3bb4ae846ef9148f2d70e1034",
+    "identical_content_at": [],
+    "action": "adapted-source/documentation"
+  }
+]
